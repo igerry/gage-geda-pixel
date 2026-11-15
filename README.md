@@ -23,7 +23,8 @@
 - **像一台真的掌机**：按键、屏幕效果、色调都能调；拧开屏幕边的螺丝，还能看看里面的电路板。
 
 <p align="center">
-<img src="shots/zh-01-title.png" width="160" alt=""> <img src="shots/zh-03-a-haul.png" width="160" alt=""> <img src="shots/zh-05-c-boost.png" width="160" alt=""> <img src="shots/zh-06-rewind.png" width="160" alt=""> <img src="shots/zh-07-info.png" width="160" alt="">
+<img src="shots/zh-01-title.png" width="180" alt=""> <img src="shots/zh-02-film.png" width="180" alt=""> <img src="shots/zh-03-a-haul.png" width="180" alt=""> <img src="shots/zh-04-b-launched.png" width="180" alt=""><br>
+<img src="shots/zh-05-c-boost.png" width="180" alt=""> <img src="shots/zh-06-rewind.png" width="180" alt=""> <img src="shots/zh-07-info.png" width="180" alt=""> <img src="shots/zh-08-cartridges.png" width="180" alt="">
 </p>
 
 ### 下载安装
@@ -48,7 +49,8 @@ A duck with a monocle and a hen who flaps first and thinks later have been shrun
 - **Feels like a real handheld**: real buttons, screen filters and tints; unscrew the screw by the screen to peek at the circuit board inside.
 
 <p align="center">
-<img src="shots/en-01-title.png" width="160" alt=""> <img src="shots/en-03-a-haul.png" width="160" alt=""> <img src="shots/en-05-c-boost.png" width="160" alt=""> <img src="shots/en-06-rewind.png" width="160" alt=""> <img src="shots/en-07-info.png" width="160" alt="">
+<img src="shots/en-01-title.png" width="180" alt=""> <img src="shots/en-02-film.png" width="180" alt=""> <img src="shots/en-03-a-haul.png" width="180" alt=""> <img src="shots/en-04-b-launched.png" width="180" alt=""><br>
+<img src="shots/en-05-c-boost.png" width="180" alt=""> <img src="shots/en-06-rewind.png" width="180" alt=""> <img src="shots/en-07-info.png" width="180" alt=""> <img src="shots/en-08-cartridges.png" width="180" alt="">
 </p>
 
 ### Download
