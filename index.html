@@ -1,75 +1,94 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-title-zh="嘎哥与咯哒 像素版 · 安卓下载" data-title-en="Gage &amp; Geda Pixel · Android download">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Gage &amp; Geda Pixel · Android download</title>
-<meta name="description" content="Gage &amp; Geda Pixel: a free co-op puzzle adventure in a pop-up book. Free, no ads, no in-app purchases. Download for Android.">
+<title>Gage &amp; Geda Pixel</title>
+<meta name="description" content="Gage &amp; Geda Pixel: a free co-op puzzle adventure in a pop-up book. 嘎哥与咯哒 像素版：免费的立体书合作解谜小冒险。">
 <meta name="theme-color" content="#FFD66B">
-<meta property="og:title" content="Gage &amp; Geda Pixel">
+<meta property="og:title" content="Gage &amp; Geda Pixel · 嘎哥与咯哒 像素版">
 <meta property="og:image" content="title-en.webp">
 <link rel="icon" type="image/png" href="icon.png">
 <link rel="stylesheet" href="style.css">
+<script src="lang.js"></script>
 <style>
   .btn.go { background: #E2553F; color: #fff; }
-  ol.steps { padding-left: 1.3em; }
-  ol.steps li { margin: 6px 0; }
+  ol.steps { padding-left: 1.3em; } ol.steps li { margin: 6px 0; }
   code.sum { font-size: 12px; word-break: break-all; }
 </style>
 </head>
 <body>
 <header class="bar"><div class="wrap bar-in">
-  <span class="brand"><span class="bset"><span class="bw bw-gage" data-t="Gage">Gage</span><span class="seal">&amp;</span><span class="bw bw-geda" data-t="Geda">Geda</span></span></span>
+  <span class="brand"><span data-l="zh" class="bset"><span class="bw bw-gage" data-t="嘎哥">嘎哥</span><span class="seal">与</span><span class="bw bw-geda" data-t="咯哒">咯哒</span></span><span data-l="en" class="bset"><span class="bw bw-gage" data-t="Gage">Gage</span><span class="seal">&amp;</span><span class="bw bw-geda" data-t="Geda">Geda</span></span></span>
+  <label class="lang"><span class="sr" data-l="zh">语言</span><span class="sr" data-l="en">Language</span><select id="langSel" aria-label="Language / 语言"><option value="zh">中文</option><option value="en">English</option></select></label>
 </div></header>
 <main class="wrap">
   <section class="hero">
-    <div><img class="pix" src="title-en.webp" width="720" height="480" alt="Gage &amp; Geda Pixel title screen"></div>
+    <div>
+      <img class="pix" data-l="zh" src="title-zh.webp" width="720" height="480" alt="嘎哥与咯哒 像素版 开始画面">
+      <img class="pix" data-l="en" src="title-en.webp" width="720" height="480" alt="Gage &amp; Geda Pixel title screen">
+    </div>
     <div>
       <div class="app"><img src="icon.png" width="72" height="72" alt="">
-        <div><h1>Gage &amp; Geda Pixel</h1><span class="tag">Free · No ads · No in-app purchases</span></div>
+        <div><h1 data-l="zh">嘎哥与咯哒 像素版</h1><h1 data-l="en">Gage &amp; Geda Pixel</h1>
+        <span class="tag" data-l="zh">免费 · 无广告 · 无内购</span><span class="tag" data-l="en">Free · No ads · No in-app purchases</span></div>
       </div>
-      <p>A duck with a monocle and a hen who flaps first and thinks later have been shrunk by a book. Now they have to cross the desk to the windowsill — pulling levers, rigging bookmarks, giving each other a boost. You play both of them, one at a time, and neither gets far alone.</p>
+      <p data-l="zh">一只戴单片眼镜的鸭子，一只爱扑腾的小母鸡，被一本书变小了。现在要从书桌这头一路走回窗台：拉杆子、搭书签、托一把、拽一把，一个人轮流操纵两只，谁也离不开谁。</p>
+      <p data-l="en">A duck with a monocle and a hen who flaps first and thinks later have been shrunk by a book. Now they have to cross the desk to the windowsill — pulling levers, rigging bookmarks, giving each other a boost. You play both of them, one at a time, and neither gets far alone.</p>
       <div class="stores">
-        <a class="btn go" href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk">Download for Android (APK, 41 MB)</a>
-        <a class="btn soon" aria-disabled="true">Google Play · coming soon</a>
+        <a class="btn go" href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk"><span data-l="zh">安卓下载（APK，41 MB）</span><span data-l="en">Download for Android (APK, 41 MB)</span></a>
+        <a class="btn soon" aria-disabled="true"><span data-l="zh">Google Play · 即将上架</span><span data-l="en">Google Play · coming soon</span></a>
       </div>
-      <p><small>Version 1.0.0 · Android 11 or later</small></p>
+      <p><small data-l="zh">版本 1.0.0 · 需要 Android 11 或以上</small><small data-l="en">Version 1.0.0 · Android 11 or later</small></p>
     </div>
   </section>
 
-  <h2>How to install</h2>
-  <ol class="steps">
+  <h2 data-l="zh">怎么安装</h2><h2 data-l="en">How to install</h2>
+  <ol class="steps" data-l="zh">
+    <li>在手机上点<b>安卓下载</b>。</li>
+    <li>打开下载好的文件。如果系统提示，允许浏览器<b>安装未知应用</b>（装完可以再关掉）。</li>
+    <li>如果 Play 保护机制提示「未知开发者」，点<b>更多详情 → 仍然安装</b>。这个 App 不需要任何权限，也从不联网。</li>
+  </ol>
+  <ol class="steps" data-l="en">
     <li>Tap <b>Download for Android</b> on your phone.</li>
     <li>Open the downloaded file. If Android asks, allow your browser to <b>install unknown apps</b> (you can switch it off again afterwards).</li>
     <li>If Play Protect says the app is from an unknown developer, tap <b>More details → Install anyway</b>. The app needs no permissions and never goes online.</li>
   </ol>
 
-  <h2>A whole pop-up book</h2>
+  <h2 data-l="zh">一整本立体书</h2><h2 data-l="en">A whole pop-up book</h2>
   <div class="shots">
-    <img class="pix" src="r4-en.webp" width="720" height="480" loading="lazy" alt="">
-    <img class="pix" src="r6-en.webp" width="720" height="480" loading="lazy" alt="">
-    <img class="pix" src="r9-en.webp" width="720" height="480" loading="lazy" alt="">
+    <img class="pix" data-l="zh" src="r4-zh.webp" width="720" height="480" loading="lazy" alt="">
+    <img class="pix" data-l="en" src="r4-en.webp" width="720" height="480" loading="lazy" alt="">
+    <img class="pix" data-l="zh" src="r6-zh.webp" width="720" height="480" loading="lazy" alt="">
+    <img class="pix" data-l="en" src="r6-en.webp" width="720" height="480" loading="lazy" alt="">
+    <img class="pix" data-l="zh" src="r9-zh.webp" width="720" height="480" loading="lazy" alt="">
+    <img class="pix" data-l="en" src="r9-en.webp" width="720" height="480" loading="lazy" alt="">
   </div>
 
-  <h2>What's inside</h2>
+  <h2 data-l="zh">里面有什么</h2><h2 data-l="en">What's inside</h2>
   <ul class="feats">
-    <li class="card"><b>Ten routes, one complete book</b>
-      <span>A paper town, a harbour, a windmill, a market, a snowy peak… turn the page and the scenery pops up. Play it start to finish — there's a little film at the end.</span></li>
-    <li class="card"><b>Two birds, one pair of hands</b>
-      <span>Tap to swap birds, hold to walk them together. She can flap where he can't reach; he can pull what she can't budge.</span></li>
-    <li class="card"><b>Wrong turn? Rewind</b>
-      <span>Hold L and time runs backwards. No starting over.</span></li>
-    <li class="card"><b>Feels like a real handheld</b>
-      <span>Real buttons, screen filters and tints. Unscrew the screw by the screen and peek at the circuit board inside.</span></li>
+    <li class="card"><b data-l="zh">十个关卡，一本完整的书</b><b data-l="en">Ten routes, one complete book</b>
+      <span data-l="zh">纸城、港口、风车、集市、雪山……书页一翻，纸景就立起来。从头玩到尾，结尾还有一段动画。</span>
+      <span data-l="en">A paper town, a harbour, a windmill, a market, a snowy peak… turn the page and the scenery pops up. Play it start to finish — there's a little film at the end.</span></li>
+    <li class="card"><b data-l="zh">两只鸟，一双手</b><b data-l="en">Two birds, one pair of hands</b>
+      <span data-l="zh">轻按换同伴，按住一起走。他够不着的地方她能扑腾上去，她拉不动的杆子他来拉。</span>
+      <span data-l="en">Tap to swap birds, hold to walk them together. She can flap where he can't reach; he can pull what she can't budge.</span></li>
+    <li class="card"><b data-l="zh">走错了？倒回去</b><b data-l="en">Wrong turn? Rewind</b>
+      <span data-l="zh">按住 L，时间往回走，不用从头再来。</span>
+      <span data-l="en">Hold L and time runs backwards. No starting over.</span></li>
+    <li class="card"><b data-l="zh">像一台真的掌机</b><b data-l="en">Feels like a real handheld</b>
+      <span data-l="zh">按键、屏幕效果、色调都能调。拧开屏幕边的螺丝，还能看看里面的电路板。</span>
+      <span data-l="en">Real buttons, screen filters and tints. Unscrew the screw by the screen and peek at the circuit board inside.</span></li>
   </ul>
 
-  <h2>Good to know</h2>
-  <p>In English and Chinese, following your phone's language. Plays fully offline, no account needed, and we collect no personal data — see the <a href="https://www.gageandgeda.com/app/pixel/privacy/?lang=en">privacy policy</a>.</p>
-  <p><small>SHA-256 of the APK:<br><code class="sum">ee96fb2fbe42bf4b3e4b7e6f4fcfd1b823b943086418a493132c0ef1c7ac5e65</code></small></p>
+  <h2 data-l="zh">小提示</h2><h2 data-l="en">Good to know</h2>
+  <p data-l="zh">中文、英文两种语言，默认跟随手机。不联网也能玩，不需要注册账号，不收集任何个人数据，详见<a href="https://www.gageandgeda.com/app/pixel/privacy/?lang=zh">隐私政策</a>。</p>
+  <p data-l="en">In English and Chinese, following your phone's language. Plays fully offline, no account needed, and we collect no personal data — see the <a href="https://www.gageandgeda.com/app/pixel/privacy/?lang=en">privacy policy</a>.</p>
+  <p><small><span data-l="zh">APK 的 SHA-256 校验值：</span><span data-l="en">SHA-256 of the APK:</span><br><code class="sum">ee96fb2fbe42bf4b3e4b7e6f4fcfd1b823b943086418a493132c0ef1c7ac5e65</code></small></p>
 </main>
 <footer class="foot"><div class="wrap">
-  <p>© 2026 dodowave studio · Gage &amp; Geda · All characters and content reserved</p>
-  <p>Emulator core: <a href="https://github.com/mgba-emu/mgba">mGBA</a> (MPL-2.0)</p>
+  <p>© 2026 dodowave studio · <span data-l="zh">嘎哥与咯哒 · 角色形象与内容版权所有</span><span data-l="en">Gage &amp; Geda · All characters and content reserved</span></p>
+  <p><span data-l="zh">模拟器内核：</span><span data-l="en">Emulator core: </span><a href="https://github.com/mgba-emu/mgba">mGBA</a> (MPL-2.0)</p>
 </div></footer>
 </body>
 </html>
