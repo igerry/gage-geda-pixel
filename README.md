@@ -33,6 +33,14 @@
 2. 打开文件，按提示允许浏览器「安装未知应用」。
 3. 如果 Play 保护机制提示「未知开发者」，点「更多详情 → 仍然安装」。App 不需要任何权限，也从不联网。
 
+### 常见问题
+
+**按住 B 加左右时，OPPO／一加手机弹出「识屏」？**
+ColorOS 会把两根手指同时长按当成系统的识屏手势。可以这样解决（任选其一）：
+
+- 打开「游戏助手」（游戏空间），把「嘎咯像素版」添加为游戏，以后从游戏空间里打开。
+- 或者在「设置」里搜索「识屏」，关掉「两指长按识屏」。
+
 中英双语，默认跟随手机。不收集任何个人数据，详见[隐私政策](https://www.gageandgeda.com/app/pixel/privacy/?lang=zh)。
 
 ---
@@ -58,6 +66,14 @@ A duck with a monocle and a hen who flaps first and thinks later have been shrun
 1. On your Android phone, download [GageAndGedaPixel.apk](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk) (Android 11 or later).
 2. Open it and, if asked, allow your browser to install unknown apps.
 3. If Play Protect warns about an unknown developer, tap **More details → Install anyway**. The app needs no permissions and never goes online.
+
+### Troubleshooting
+
+**Holding B with left/right brings up “screen recognition” on OPPO / OnePlus phones?**
+ColorOS treats a two-finger long press as its screen-recognition gesture. Either of these fixes it:
+
+- Open Game Assistant (Game Space), add “Gage & Geda Pixel” as a game, and launch it from there.
+- Or search Settings for “screen recognition” and turn off the two-finger long press.
 
 English and Chinese, following your phone's language. We collect no personal data — see the [privacy policy](https://www.gageandgeda.com/app/pixel/privacy/?lang=en).
 
