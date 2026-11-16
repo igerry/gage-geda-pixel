@@ -4,7 +4,7 @@
 
 <p align="center">
 <b>免费 · 无广告 · 无内购</b> &nbsp;|&nbsp; <b>Free · No ads · No in-app purchases</b><br>
-<a href="https://igerry.github.io/gage-geda-pixel/?lang=zh">中文下载页</a> · <a href="https://igerry.github.io/gage-geda-pixel/?lang=en">English download page</a> · <a href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk"><b>⬇ Android APK (41 MB)</b></a>
+<a href="https://igerry.github.io/gage-geda-pixel/?lang=zh">中文下载页</a> · <a href="https://igerry.github.io/gage-geda-pixel/?lang=en">English download page</a> · <a href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk"><b>⬇ Android APK (37 MB)</b></a>
 </p>
 
 [中文](#中文) · [English](#english)
