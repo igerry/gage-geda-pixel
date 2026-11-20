@@ -37,7 +37,11 @@
 
 <p align="center"><img src="cover/cover-zh.png" width="320" alt="卡带封面"></p>
 
-下载 [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba)，放进任何 GBA 模拟器，或 Analogue Pocket 这类能读 GBA 卡带的掌机，就能玩同一本书。想在模拟器里给它配封面，可以用 [cover-zh.png](cover/cover-zh.png) 或 [cover-en.png](cover/cover-en.png)。SHA-256：`467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
+下载 [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba)，放进任何 GBA 模拟器，或 Analogue Pocket 这类能读 GBA 卡带的掌机，就能玩同一本书。想在模拟器里给它配封面，可以用 [cover-zh.png](cover/cover-zh.png) 或 [cover-en.png](cover/cover-en.png)。
+
+自己烧卡带的话，卡带正面贴纸：[label-zh.png](cover/label-zh.png)（43.5 × 22 mm，600 dpi；印刷用四边各加 1 mm 出血的 [label-zh-bleed.png](cover/label-zh-bleed.png)，英文版 [label-en.png](cover/label-en.png)／[label-en-bleed.png](cover/label-en-bleed.png)）。贴之前先用卡尺量一下自己卡带的贴纸槽。
+
+<p align="center"><img src="cover/label-zh.png" width="360" alt="卡带贴纸"></p>SHA-256：`467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
 
 ### 常见问题
 
@@ -77,7 +81,11 @@ A duck with a monocle and a hen who flaps first and thinks later have been shrun
 
 <p align="center"><img src="cover/cover-en.png" width="320" alt="Cartridge cover"></p>
 
-Download [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba) and load it in any GBA emulator, or on a handheld that plays GBA games such as the Analogue Pocket. It's the same book. For box art in your emulator, use [cover-en.png](cover/cover-en.png) or [cover-zh.png](cover/cover-zh.png). SHA-256: `467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
+Download [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba) and load it in any GBA emulator, or on a handheld that plays GBA games such as the Analogue Pocket. It's the same book. For box art in your emulator, use [cover-en.png](cover/cover-en.png) or [cover-zh.png](cover/cover-zh.png).
+
+Flashing your own cart? The front label: [label-en.png](cover/label-en.png) (43.5 × 22 mm at 600 dpi; print [label-en-bleed.png](cover/label-en-bleed.png), which has 1 mm bleed on every side; Chinese: [label-zh.png](cover/label-zh.png) / [label-zh-bleed.png](cover/label-zh-bleed.png)). Measure your cart's label recess with calipers before printing.
+
+<p align="center"><img src="cover/label-en.png" width="360" alt="Cartridge label"></p> SHA-256: `467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
 
 ### Troubleshooting
 
