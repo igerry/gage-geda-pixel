@@ -4,7 +4,7 @@
 
 <p align="center">
 <b>免费 · 无广告 · 无内购</b> &nbsp;|&nbsp; <b>Free · No ads · No in-app purchases</b><br>
-<a href="https://igerry.github.io/gage-geda-pixel/?lang=zh">中文下载页</a> · <a href="https://igerry.github.io/gage-geda-pixel/?lang=en">English download page</a> · <a href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk"><b>⬇ Android APK (37 MB)</b></a>
+<a href="https://igerry.github.io/gage-geda-pixel/?lang=zh">中文下载页</a> · <a href="https://igerry.github.io/gage-geda-pixel/?lang=en">English download page</a> · <a href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk"><b>⬇ Android APK (37 MB)</b></a> · <a href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba"><b>⬇ GBA ROM (21 MB)</b></a>
 </p>
 
 [中文](#中文) · [English](#english)
@@ -32,6 +32,10 @@
 1. 在安卓手机上下载 [GageAndGedaPixel.apk](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk)（需要 Android 11 或以上）。
 2. 打开文件，按提示允许浏览器「安装未知应用」。
 3. 如果 Play 保护机制提示「未知开发者」，点「更多详情 → 仍然安装」。App 不需要任何权限，也从不联网。
+
+### 在 GBA 模拟器或掌机上玩
+
+下载 [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba)，放进任何 GBA 模拟器，或 Analogue Pocket 这类能读 GBA 卡带的掌机，就能玩同一本书。SHA-256：`467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
 
 ### 常见问题
 
@@ -66,6 +70,10 @@ A duck with a monocle and a hen who flaps first and thinks later have been shrun
 1. On your Android phone, download [GageAndGedaPixel.apk](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk) (Android 11 or later).
 2. Open it and, if asked, allow your browser to install unknown apps.
 3. If Play Protect warns about an unknown developer, tap **More details → Install anyway**. The app needs no permissions and never goes online.
+
+### Play on a GBA emulator or handheld
+
+Download [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba) and load it in any GBA emulator, or on a handheld that plays GBA games such as the Analogue Pocket. It's the same book. SHA-256: `467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
 
 ### Troubleshooting
 
