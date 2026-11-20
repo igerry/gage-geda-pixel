@@ -35,7 +35,9 @@
 
 ### 在 GBA 模拟器或掌机上玩
 
-下载 [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba)，放进任何 GBA 模拟器，或 Analogue Pocket 这类能读 GBA 卡带的掌机，就能玩同一本书。SHA-256：`467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
+<p align="center"><img src="cover/cover-zh.png" width="320" alt="卡带封面"></p>
+
+下载 [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba)，放进任何 GBA 模拟器，或 Analogue Pocket 这类能读 GBA 卡带的掌机，就能玩同一本书。想在模拟器里给它配封面，可以用 [cover-zh.png](cover/cover-zh.png) 或 [cover-en.png](cover/cover-en.png)。SHA-256：`467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
 
 ### 常见问题
 
@@ -73,7 +75,9 @@ A duck with a monocle and a hen who flaps first and thinks later have been shrun
 
 ### Play on a GBA emulator or handheld
 
-Download [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba) and load it in any GBA emulator, or on a handheld that plays GBA games such as the Analogue Pocket. It's the same book. SHA-256: `467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
+<p align="center"><img src="cover/cover-en.png" width="320" alt="Cartridge cover"></p>
+
+Download [GageAndGeda-Pixel.gba](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba) and load it in any GBA emulator, or on a handheld that plays GBA games such as the Analogue Pocket. It's the same book. For box art in your emulator, use [cover-en.png](cover/cover-en.png) or [cover-zh.png](cover/cover-zh.png). SHA-256: `467acf8c12a8d57a3b128dd0fb1e4e92cf18c5ef42781fca1d88bd5b5bc0e631`
 
 ### Troubleshooting
 
