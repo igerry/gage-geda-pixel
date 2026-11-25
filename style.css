@@ -38,7 +38,7 @@ h3 { font: 19px/1.4 var(--cute); margin: 24px 0 6px; }
   .shots { grid-template-columns: 1fr; }
   h1 { font-size: 32px; }
 }
-.hero > *, .shots > *, .feats > * { min-width: 0; }
+.phones > *, .hero > *, .shots > *, .feats > * { min-width: 0; }
 .stores .btn { white-space: nowrap; }
 /* Same menu as the homepage */
 .bar { position: sticky; top: 0; z-index: 20; }
@@ -73,3 +73,11 @@ h3 { font: 19px/1.4 var(--cute); margin: 24px 0 6px; }
   border: 2px solid var(--ink); border-radius: 99px; padding: 8px 32px 8px 14px; box-shadow: 2px 2px 0 var(--ink); cursor: pointer; }
 .lang::after { content: ''; position: absolute; right: 13px; top: 50%; width: 7px; height: 7px; margin-top: -6px;
   border: solid var(--ink); border-width: 0 2.5px 2.5px 0; transform: rotate(45deg); pointer-events: none; }
+.shots.pop { grid-template-columns: repeat(6, 1fr); }
+.shots.pop > :nth-child(-n+2) { grid-column: span 3; }
+.shots.pop > :nth-child(n+3) { grid-column: span 2; }
+.phones { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.phones img { display: block; width: 100%; height: auto; border: var(--line); border-radius: 22px; box-shadow: 6px 6px 0 var(--ink); }
+.film { position: relative; aspect-ratio: 16 / 9; border: var(--line); border-radius: 12px; box-shadow: 6px 6px 0 var(--ink); overflow: hidden; background: #000; }
+.film iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+@media (max-width: 760px) { .shots.pop { grid-template-columns: 1fr; } .shots.pop > * { grid-column: auto !important; } .phones { grid-template-columns: repeat(2, 1fr); } }
