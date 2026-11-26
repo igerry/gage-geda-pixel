@@ -4,7 +4,7 @@
 
 <p align="center">
 <b>免费 · 无广告 · 无内购</b> &nbsp;|&nbsp; <b>Free · No ads · No in-app purchases</b><br>
-<a href="https://igerry.github.io/gage-geda-pixel/?lang=zh">中文下载页</a> · <a href="https://igerry.github.io/gage-geda-pixel/?lang=en">English download page</a> · <a href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk"><b>⬇ Android APK (37 MB)</b></a> · <a href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba"><b>⬇ GBA ROM (21 MB)</b></a>
+<a href="https://igerry.github.io/gage-geda-pixel/?lang=zh">中文下载页</a> · <a href="https://igerry.github.io/gage-geda-pixel/?lang=en">English download page</a> · <a href="https://apps.apple.com/app/id6834959494"><b>iPhone · App Store</b></a> · <a href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk"><b>⬇ Android APK (37 MB)</b></a> · <a href="https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGeda-Pixel.gba"><b>⬇ GBA ROM (21 MB)</b></a>
 </p>
 
 [中文](#中文) · [English](#english)
@@ -28,6 +28,9 @@
 </p>
 
 ### 下载安装
+
+iPhone／iPad：在 App Store 免费下载 [嘎哥与咯哒 像素版](https://apps.apple.com/app/id6834959494)。
+
 
 1. 在安卓手机上下载 [GageAndGedaPixel.apk](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk)（需要 Android 11 或以上）。
 2. 打开文件，按提示允许浏览器「安装未知应用」。
@@ -72,6 +75,9 @@ A duck with a monocle and a hen who flaps first and thinks later have been shrun
 </p>
 
 ### Download
+
+iPhone / iPad: get [Gage & Geda Pixel](https://apps.apple.com/app/id6834959494) free on the App Store.
+
 
 1. On your Android phone, download [GageAndGedaPixel.apk](https://github.com/igerry/gage-geda-pixel/releases/latest/download/GageAndGedaPixel.apk) (Android 11 or later).
 2. Open it and, if asked, allow your browser to install unknown apps.
